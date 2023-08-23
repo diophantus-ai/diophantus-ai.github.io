@@ -1,0 +1,28 @@
+
+body {
+    font-family: 'Montserrat', sans-serif;
+}
+
+
+
+header nav {
+    display: flex;
+    justify-content: space-between;
+    background-color: #f0f0f0;
+    padding: 10px;
+}
+
+#company-name {
+    font-family: 'Montserrat', sans-serif;
+    font-size: 24px;
+}
+
+footer {
+    background-color: #f0f0f0;
+    padding: 10px;
+    text-align: center;
+}
+
+.small-text {
+    font-size: 14px;
+}
