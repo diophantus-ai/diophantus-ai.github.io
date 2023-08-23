@@ -1,0 +1,55 @@
+@font-face {
+    font-family: 'Sharp Sans';
+    font-weight: 900;
+    src: url('SharpSans-14.eot');
+    src: url('SharpSans-14.eot?#iefix') format('embedded-opentype'),
+         url('SharpSans-14.woff2') format('woff2'),
+         url('SharpSans-14.woff') format('woff'),
+         url('SharpSans-14.ttf')  format('truetype'),
+         url('SharpSans-14.svg#Sharp Sans Extrabold') format('svg');
+}
+
+@font-face {
+    font-family: 'Sharp Sans';
+    font-weight: normal;
+    src: url('SharpSans-6.eot');
+    src: url('SharpSans-6.eot?#iefix') format('embedded-opentype'),
+         url('SharpSans-6.woff2') format('woff2'),
+         url('SharpSans-6.woff') format('woff'),
+         url('SharpSans-6.ttf')  format('truetype'),
+         url('SharpSans-6.svg#Sharp Sans') format('svg');
+}
+
+@font-face {
+    font-family: 'Sharp Sans';
+    font-weight: 600;
+    src: url('SharpSans-8.eot');
+    src: url('SharpSans-8.eot?#iefix') format('embedded-opentype'),
+         url('SharpSans-8.woff2') format('woff2'),
+         url('SharpSans-8.woff') format('woff'),
+         url('SharpSans-8.ttf')  format('truetype'),
+         url('SharpSans-8.svg#Sharp Sans Medium') format('svg');
+}
+
+@font-face {
+    font-family: 'Sharp Sans';
+    font-weight: 700;
+    src: url('SharpSans-10.eot');
+    src: url('SharpSans-10.eot?#iefix') format('embedded-opentype'),
+         url('SharpSans-10.woff2') format('woff2'),
+         url('SharpSans-10.woff') format('woff'),
+         url('SharpSans-10.ttf')  format('truetype'),
+         url('SharpSans-10.svg#Sharp Sans Semibold') format('svg');
+}
+
+@font-face {
+    font-family: 'Sharp Sans';
+    font-weight: bold;
+    src: url('SharpSans-12.eot');
+    src: url('SharpSans-12.eot?#iefix') format('embedded-opentype'),
+         url('SharpSans-12.woff2') format('woff2'),
+         url('SharpSans-12.woff') format('woff'),
+         url('SharpSans-12.ttf')  format('truetype'),
+         url('SharpSans-12.svg#Sharp Sans') format('svg');
+}
+
